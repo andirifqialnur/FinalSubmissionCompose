@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SubmissionCompose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_about">About</string>
+    <string name="price">Rp %d</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="add_to_cart">"Add To Cart : Rp %d "</string>
+    <string name="share_message">Hey, I want to buy %1$d fruit with total Rp %2$d. How can i pay it?</string>
+    <string name="menu_cart">Cart</string>
+    <string name="total_order">"Total : Rp %d "</string>
+    <string name="fruit_shop">Fruit Shop</string>
+    <string name="developer_name">Andi Rifqial Nur</string>
+    <string name="job">Android Developer</string>
+
+</resources>
